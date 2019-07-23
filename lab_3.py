@@ -23,3 +23,8 @@ turtle.goto(100,50)
 turtle.pendown()
 turtle.goto(0,50)
 turtle.goto(0,230)
+#L
+turtle.penup()
+turtle.goto(150,50)
+turtle.pendown()
+turtle.goto(200,230)
